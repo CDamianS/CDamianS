@@ -9,7 +9,7 @@ I'm Damian, a computer science student at ITESM in Mexico, interested in Free So
 </details>
 <details>
   <summary><b>🔭Most used Languages</b></summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CDamianS&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CDamianS&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light&hide=HTML,CSS,JavaScript,EJS,Sass">
 </details>
 
 <p align="center"><img width="300" src="https://www.gnu.org/graphics/Freedo_On_The_Beach.svg"></p>
